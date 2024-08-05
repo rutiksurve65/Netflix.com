@@ -2,8 +2,7 @@
 
 Welcome to the Netflix Clone project! This repository contains a simple clone of the Netflix website created using HTML and CSS. This project is designed to showcase basic web development skills and mimic the layout and design of the popular streaming service.
 
-Link: https://rutiksurve65.github.io/Netflix_Clone_Using_HTML_CSS/
-
+Link: https://rutiksurve65.github.io/Netflix.com/
 <h3>Features</h3>
 <li>A visually appealing interface similar to Netflix.</li>
 <li>Static content with placeholder images and text.</li>
@@ -30,7 +29,8 @@ Link: https://rutiksurve65.github.io/Netflix_Clone_Using_HTML_CSS/
 
 <h2>Screenshots</h2>
 <hr>
-<img src="" alt="Netflix-clone-1 ">
+
+<img src="https://github.com/user-attachments/assets/7dc4d444-5f19-4390-8ec3-9500d0781d85 " alt="Netflix-clone-1 ">
 
 
 
